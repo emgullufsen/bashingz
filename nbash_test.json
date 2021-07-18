@@ -1,0 +1,290 @@
+{
+  "seasonStageId": 4,
+  "seasonYear": "2020",
+  "leagueName": "standard",
+  "gameId": "0042000405",
+  "arena": {
+    "name": "Footprint Center",
+    "isDomestic": true,
+    "city": "Phoenix",
+    "stateAbbr": "AZ",
+    "country": "USA"
+  },
+  "isGameActivated": true,
+  "statusNum": 2,
+  "extendedStatusNum": 0,
+  "startTimeEastern": "9:00 PM ET",
+  "startTimeUTC": "2021-07-18T01:00:00.000Z",
+  "startDateEastern": "20210717",
+  "homeStartDate": "20210717",
+  "homeStartTime": "1800",
+  "visitorStartDate": "20210717",
+  "visitorStartTime": "2000",
+  "gameUrlCode": "20210717/MILPHX",
+  "clock": "56.1",
+  "isBuzzerBeater": false,
+  "isPreviewArticleAvail": true,
+  "isRecapArticleAvail": false,
+  "nugget": {
+    "text": ""
+  },
+  "attendance": "16562",
+  "tickets": {
+    "mobileApp": "https://a.data.nba.com/tickets/single/2020/0042000405/APP_TIX",
+    "desktopWeb": "https://a.data.nba.com/tickets/single/2020/0042000405/TEAM_SCH",
+    "mobileWeb": "https://a.data.nba.com/tickets/single/2020/0042000405/WEB_MWEB",
+    "leagGameInfo": "https://a.data.nba.com/tickets/single/2020/0042000405/LEAG_GAMEINFO",
+    "leagTix": "https://a.data.nba.com/tickets/single/2020/0042000405/LEAG_TIX"
+  },
+  "hasGameBookPdf": false,
+  "isStartTimeTBD": false,
+  "isNeutralVenue": false,
+  "gameDuration": {
+    "hours": "2",
+    "minutes": "18"
+  },
+  "tags": [
+    "Finals2020"
+  ],
+  "playoffs": {
+    "roundNum": "4",
+    "confName": "",
+    "seriesId": "40",
+    "seriesSummaryText": "Series tied 2-2",
+    "isSeriesCompleted": false,
+    "gameNumInSeries": "5",
+    "isIfNecessary": false,
+    "vTeam": {
+      "seedNum": "3",
+      "seriesWin": "2",
+      "isSeriesWinner": false
+    },
+    "hTeam": {
+      "seedNum": "2",
+      "seriesWin": "2",
+      "isSeriesWinner": false
+    }
+  },
+  "period": {
+    "current": 4,
+    "type": 0,
+    "maxRegular": 4,
+    "isHalftime": false,
+    "isEndOfPeriod": false
+  },
+  "vTeam": {
+    "teamId": "1610612749",
+    "triCode": "MIL",
+    "win": "46",
+    "loss": "26",
+    "seriesWin": "0",
+    "seriesLoss": "2",
+    "score": "120",
+    "linescore": [
+      {
+        "score": "21"
+      },
+      {
+        "score": "43"
+      },
+      {
+        "score": "36"
+      },
+      {
+        "score": "20"
+      }
+    ]
+  },
+  "hTeam": {
+    "teamId": "1610612756",
+    "triCode": "PHX",
+    "win": "51",
+    "loss": "21",
+    "seriesWin": "2",
+    "seriesLoss": "0",
+    "score": "119",
+    "linescore": [
+      {
+        "score": "37"
+      },
+      {
+        "score": "24"
+      },
+      {
+        "score": "29"
+      },
+      {
+        "score": "29"
+      }
+    ]
+  },
+  "watch": {
+    "broadcast": {
+      "broadcasters": {
+        "national": [
+          {
+            "shortName": "ABC",
+            "longName": "ABC"
+          }
+        ],
+        "canadian": [
+          {
+            "shortName": "SN",
+            "longName": "Sportsnet"
+          }
+        ],
+        "vTeam": [],
+        "hTeam": [],
+        "spanish_hTeam": [],
+        "spanish_vTeam": [],
+        "spanish_national": []
+      },
+      "video": {
+        "regionalBlackoutCodes": "torr",
+        "canPurchase": false,
+        "isLeaguePass": true,
+        "isNationalBlackout": true,
+        "isTNTOT": false,
+        "isVR": false,
+        "tntotIsOnAir": false,
+        "isNextVR": false,
+        "isNBAOnTNTVR": false,
+        "isMagicLeap": false,
+        "isOculusVenues": false,
+        "streams": [
+          {
+            "streamType": "vTeam",
+            "isOnAir": false,
+            "doesArchiveExist": false,
+            "isArchiveAvailToWatch": false,
+            "streamId": "",
+            "duration": 0
+          },
+          {
+            "streamType": "hTeam",
+            "isOnAir": false,
+            "doesArchiveExist": false,
+            "isArchiveAvailToWatch": false,
+            "streamId": "",
+            "duration": 0
+          },
+          {
+            "streamType": "espanol_vTeam",
+            "isOnAir": false,
+            "doesArchiveExist": false,
+            "isArchiveAvailToWatch": false,
+            "streamId": "",
+            "duration": 0
+          },
+          {
+            "streamType": "espanol_hTeam",
+            "isOnAir": false,
+            "doesArchiveExist": false,
+            "isArchiveAvailToWatch": false,
+            "streamId": "",
+            "duration": 0
+          },
+          {
+            "streamType": "espanol_natl",
+            "isOnAir": false,
+            "doesArchiveExist": false,
+            "isArchiveAvailToWatch": false,
+            "streamId": "",
+            "duration": 0
+          },
+          {
+            "streamType": "mobile",
+            "isOnAir": false,
+            "doesArchiveExist": false,
+            "isArchiveAvailToWatch": false,
+            "streamId": "",
+            "duration": 0
+          },
+          {
+            "streamType": "condensed",
+            "isOnAir": false,
+            "doesArchiveExist": false,
+            "isArchiveAvailToWatch": false,
+            "streamId": "",
+            "duration": 0
+          },
+          {
+            "streamType": "alt",
+            "isOnAir": false,
+            "doesArchiveExist": false,
+            "isArchiveAvailToWatch": false,
+            "streamId": "",
+            "duration": 0
+          }
+        ],
+        "deepLink": [
+          {
+            "broadcaster": "ABC",
+            "regionalMarketCodes": "",
+            "iosApp": "http://www.espn.com/watch?id=3801123",
+            "androidApp": "http://www.espn.com/watch?id=3801123",
+            "desktopWeb": "http://www.espn.com/watch?id=3801123",
+            "mobileWeb": "http://www.espn.com/watch?id=3801123"
+          }
+        ]
+      },
+      "audio": {
+        "national": {
+          "streams": [
+            {
+              "language": "English",
+              "isOnAir": false,
+              "streamId": ""
+            },
+            {
+              "language": "Spanish",
+              "isOnAir": false,
+              "streamId": ""
+            }
+          ],
+          "broadcasters": []
+        },
+        "vTeam": {
+          "streams": [
+            {
+              "language": "English",
+              "isOnAir": false,
+              "streamId": ""
+            },
+            {
+              "language": "Spanish",
+              "isOnAir": false,
+              "streamId": ""
+            }
+          ],
+          "broadcasters": [
+            {
+              "shortName": "620 AM/103.3 FM WTMJ",
+              "longName": "620 AM/103.3 FM WTMJ"
+            }
+          ]
+        },
+        "hTeam": {
+          "streams": [
+            {
+              "language": "English",
+              "isOnAir": false,
+              "streamId": ""
+            },
+            {
+              "language": "Spanish",
+              "isOnAir": false,
+              "streamId": ""
+            }
+          ],
+          "broadcasters": [
+            {
+              "shortName": "KMVP 98.7 / S: KSUN",
+              "longName": "KMVP 98.7 / S: KSUN"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
