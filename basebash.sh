@@ -2,7 +2,7 @@
 
 filey="basebash_data.json"
 datey=$(date +%F)
-keyey="db96f2fc0emshaf33007386630a2p16e5fbjsn09ecad2e38ae"
+keyey=$(cat .baseball-key)
 urley="api-baseball.p.rapidapi.com"
 
 curl --request GET \
