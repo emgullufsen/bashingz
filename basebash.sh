@@ -10,4 +10,4 @@ curl --request GET \
 	--header "x-rapidapi-host: ${urley}" \
 	--header "x-rapidapi-key: ${keyey}" \
 	-o $filey
-jq -r '.response | .[] | select(.league.name == "MLB")' $filey
+jq -r '.response | .[] | select(.league.name == "MLB") | .id, .teams.home.name, .teams.away.name' $filey
