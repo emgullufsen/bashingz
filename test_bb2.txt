@@ -1,0 +1,16 @@
+New York Mets	7	Pittsburgh Pirates	6
+Texas Rangers	0	Toronto Blue Jays	5
+Milwaukee Brewers	8	Cincinnati Reds	0
+Minnesota Twins	0	Detroit Tigers	7
+Tampa Bay Rays	7	Atlanta Braves	5
+Miami Marlins	4	Philadelphia Phillies	7
+Baltimore Orioles	5	Kansas City Royals	0
+Houston Astros	0	Chicago White Sox	4
+San Francisco Giants	1	St. Louis Cardinals	2
+San Diego Padres	7	Washington Nationals	8
+Los Angeles Dodgers	5	Colorado Rockies	6
+Texas Rangers	0	Toronto Blue Jays	10
+Cleveland Indians	4	Oakland Athletics	2
+Seattle Mariners	7	Los Angeles Angels	4
+Chicago Cubs	4	Arizona Diamondbacks	6
+Boston Red Sox	0	New York Yankees	3
