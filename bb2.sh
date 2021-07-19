@@ -4,6 +4,7 @@
 keyey=$(cat key_bb2.key)
 urley=sportspage-feeds.p.rapidapi.com
 curl --request GET \
+	--silent \
 	--url https://${urley}/games \
 	--header "x-rapidapi-host: ${urley}" \
 	--header "x-rapidapi-key: ${keyey}" |
